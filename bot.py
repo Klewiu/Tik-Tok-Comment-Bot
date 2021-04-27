@@ -22,11 +22,11 @@ while True:
     pyautogui.click(833,971)
     time.sleep(3)
 
-    #clsoe comment
+    #close comment
     pyautogui.click(831,456)
     time.sleep(2)
 
-    #scrooling
+    #scrolling
     pyautogui.moveTo(605,791)
     pyautogui.dragTo(611,284, 1, button='left')
     time.sleep(4)
